@@ -1,0 +1,12 @@
+entero 1 = 99 ;
+entero 2 = 100 ;
+si entero 2 < entero 1 ;
+       entonces imprime " el numero es menor  " ;
+deOtra imprime " el numero es mayor  " ;
+si 99 < 100 ;
+      entonces imprime " el numero es menor que el comprador "
+fopen " Codigo.txt"
+99 y y 100 ;
+ejecuta si entero
+fin
+ 
